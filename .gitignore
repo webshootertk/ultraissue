@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+db.*
+.DS_Store
+env/
+issues/local_settings.py
